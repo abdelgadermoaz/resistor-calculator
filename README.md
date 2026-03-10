@@ -24,6 +24,8 @@ resistor-calculator/
 │   ├── calculator.js    # Business Logic: Pure functions for math and formatting
 │   └── app.js           # Controller: Event listeners and DOM manipulation
 └── README.md
+```
+
 🚀 How to Run Locally
 Because this project uses ES6 Modules (import / export), it must be run via a local web server to bypass strict browser CORS policies.
 
