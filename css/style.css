@@ -1,0 +1,21 @@
+body { font-family: sans-serif; padding: 20px; background: #f4f7f6; max-width: 800px; margin: auto; }
+.calculator-section { background: white; padding: 20px; border-radius: 8px; margin-bottom: 30px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+.band-container { display: flex; gap: 10px; margin-bottom: 20px; }
+.band-group { display: flex; flex-direction: column; flex: 1; }
+label { font-size: 13px; font-weight: bold; margin-bottom: 5px; text-align: center; }
+select { padding: 10px; font-weight: bold; border-radius: 4px; outline: none; text-align: center; }
+.result { font-size: 24px; font-weight: bold; text-align: center; padding-top: 15px; border-top: 2px solid #eee; }
+
+/* Dynamic Colors */
+.c-black { background: #000; color: #fff; }
+.c-brown { background: #8B4513; color: #fff; }
+.c-red { background: #FF0000; color: #fff; }
+.c-orange { background: #FF8C00; color: #000; }
+.c-yellow { background: #FFD700; color: #000; }
+.c-green { background: #2E8B57; color: #fff; }
+.c-blue { background: #4169E1; color: #fff; }
+.c-violet { background: #8A2BE2; color: #fff; }
+.c-gray { background: #808080; color: #fff; }
+.c-white { background: #FFF; color: #000; border: 1px solid #ccc; }
+.c-gold { background: #DAA520; color: #000; }
+.c-silver { background: #C0C0C0; color: #000; }
